@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gitweb/Gitweb.iml" filepath="$PROJECT_DIR$/Gitweb/Gitweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello.iml" filepath="$PROJECT_DIR$/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Staticweb01/Staticweb01.iml" filepath="$PROJECT_DIR$/Staticweb01/Staticweb01.iml" />
+    </modules>
+  </component>
+</project>
